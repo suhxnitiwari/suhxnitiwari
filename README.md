@@ -1,26 +1,40 @@
 # Hi, I'm Suhani ✦
 
-**MIS @ UT Austin** · Full-stack developer · Building where technology, business & people meet
+**MIS @ UT Austin McCombs** · Marketing minor · I build things people actually want to use
 
 [![Website](https://img.shields.io/badge/suhanitiwari.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://suhanitiwari.com)
-![Location](https://img.shields.io/badge/Austin,_TX-BF5700?style=flat-square&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suhxnitiwari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhxnitiwari/)
+[![Résumé](https://img.shields.io/badge/Résumé-BF5700?style=flat-square&logo=readthedocs&logoColor=white)](https://suhanitiwari.com/resume)
+![Location](https://img.shields.io/badge/Austin,_TX-333333?style=flat-square&logo=googlemaps&logoColor=white)
 
-I build full-stack apps that people actually want to use: rideshare platforms, health tools, data pipelines and a lot of small, personal web projects. I care about privacy, good design and software that helps people who usually get left out.
+I study Management Information Systems at McCombs, with interests in psychology, marketing and product strategy. I'm fascinated by why people choose what they choose, and I like taking an idea from "wait, what if…" to something you can actually use.
+
+## 👋 About Me
+
+- 💼 **Oracle**: ERP Consultant Intern (Summer 2026). Completed Oracle's 12-week Enterprise Sales Development program and led discovery calls with $20M–$200M companies for Oracle NetSuite.
+- 📈 **Acacia Advisors**: Strategy Consulting Intern (2025–26). Built the go-to-market strategy for a $1M Microsoft Azure AI manufacturing product and drove 20% more website traffic by redesigning messaging.
+- 👩‍💻 **Girls Who Code**: Founded chapters at two middle schools and taught 240+ girls. 100% of my mentees who took AP CS scored a 3 or higher.
+- 📖 **Author & Illustrator** of [*Girls Can Be Engineers Too*](https://www.amazon.com/dp/B0CKXVLJ23): #1 New Release in STEM Education, with $4,194 donated to DFW libraries.
+- 🏆 **Scholarships & Awards**: Gerald and Linda Ridgely Endowed Presidential Scholarship, Scott Hemsell Memorial Scholarship (MIS), University Honors, President's Volunteer Service Award (Gold)
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[RideManagement](https://github.com/suhxnitiwari/ridemanagement)** | Full-stack rideshare platform with rider, driver & admin portals, live ride tracking, automatic billing, row-level security and AI trip suggestions. Built solo. | React · Node/Express · PostgreSQL · Clerk |
-| **[Cadence](https://suhxnitiwari.github.io/cadence-period-tracker/)** | Free, private, local-first period tracker designed for a first period. No account, no ads. | React · PWA |
-| **[Listening History](https://listening-history.onrender.com)** | Four years of Spotify data: Python ETL into a PostgreSQL star schema, SQL analytics and a FastAPI app. | Python · PostgreSQL · FastAPI |
-| **[ColoredIn](https://github.com/suhxnitiwari/ColoredIn)** | Coloring adventure that introduces girls ages 3–9 to 41 careers where women are underrepresented. | React · Express · Sequelize · Web Audio |
-| **[Survival Odds](https://suhxnitiwari.github.io/survival-odds/)** | Upload your syllabi. It tells you what you need on the final and plans your studying. | JavaScript · Gemini · PDF parsing |
-| **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)** | RSVP site with a live SignalR guest list, calendar invites and 23 integration tests running in CI. | ASP.NET Core · EF Core · SignalR · xUnit |
+### Full-Stack Apps
+- **[RideFlow](https://github.com/suhxnitiwari/ridemanagement)** · [live ↗](https://rideflow-frontend.onrender.com/): Rideshare platform with rider, driver and admin portals. It handles the full ride from request to receipt, enforces row-level security on the server, and has an AI chatbot. Built solo in a course designed for teams. *React · Node/Express · PostgreSQL · Clerk*
+- **[Bevo's Tacos](https://github.com/suhxnitiwari/Bevo_Taco-Checkout)** · [live ↗](https://suhxnitiwari.github.io/Bevo_Taco-Checkout/): Food truck checkout built in C#, then rebuilt as a web app, with 62 unit tests and CI that blocks any deploy that fails. *C# · ASP.NET Core · GitHub Actions*
+- **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)**: RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
 
-## ✨ Just for Fun
+### Data
+- **[Listening History](https://github.com/suhxnitiwari/listening-history)** · [live ↗](https://listening-history.onrender.com): Four years of Spotify (182K plays) run through a Python ETL into a PostgreSQL star schema, analyzed with SQL window functions. *Python · PostgreSQL · FastAPI*
+- **[Saturday in Austin](https://github.com/suhxnitiwari/saturday-in-austin)** · [live ↗](https://suhxnitiwari.github.io/saturday-in-austin/): Plans your perfect Saturday across 208 Austin places using Dijkstra and bitmask dynamic programming. *Python · Algorithms*
 
-[Saturday in Austin](https://suhxnitiwari.github.io/saturday-in-austin/) (plans your day with Dijkstra + DP) ·
+### Apps for Good
+- **[Cadence](https://github.com/suhxnitiwari/cadence-period-tracker)** · [live ↗](https://suhxnitiwari.github.io/cadence-period-tracker/): Free, private, local-first period tracker designed for a first period. No account, no ads. *React · PWA*
+- **[ColoredIn](https://github.com/suhxnitiwari/ColoredIn)**: Coloring adventure that introduces girls ages 3–9 to 41 careers where women are underrepresented. *React · Express · Sequelize · Web Audio*
+- **[Survival Odds](https://github.com/suhxnitiwari/survival-odds)** · [live ↗](https://suhxnitiwari.github.io/survival-odds/): Upload your syllabi and it tells you what you need on the final and plans your studying. *JavaScript · Gemini*
+
+### Just for Fun
+[Soft Heart. Strong Spirit.](https://suhxnitiwari.github.io/suhani-personality/) ·
 [Listening Galaxy](https://suhxnitiwari.github.io/listening-galaxy/) ·
 [Listening Record](https://suhxnitiwari.github.io/listening-record/) ·
 [Hue Are You](https://suhxnitiwari.github.io/hue-are-you/) ·
@@ -47,10 +61,11 @@ I build full-stack apps that people actually want to use: rideshare platforms, h
 
 **Data & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-🌐 [suhanitiwari.com](https://suhanitiwari.com) · 📍 Austin, TX
+Let's talk about products, people or the best vanilla latte in Austin ☕ → [LinkedIn](https://www.linkedin.com/in/suhxnitiwari/) · [suhanitiwari.com](https://suhanitiwari.com)
