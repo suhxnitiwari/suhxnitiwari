@@ -46,6 +46,7 @@ I study Management Information Systems at McCombs and Psychology at UT, with int
 ### Full-Stack Apps
 - **[RideFlow](https://github.com/suhxnitiwari/ridemanagement)** · [live ↗](https://rideflow-frontend.onrender.com/): Rideshare platform with rider, driver and admin portals. It handles the full ride from request to receipt, enforces row-level security on the server, and has an AI chatbot. Built solo in a course designed for teams. *React · Node/Express · PostgreSQL · Clerk*
 - **[Bevo's Tacos](https://github.com/suhxnitiwari/Bevo_Taco-Checkout)** · [live ↗](https://suhxnitiwari.github.io/Bevo_Taco-Checkout/): Food truck checkout built in C#, then rebuilt as a web app, with 62 unit tests and CI that blocks any deploy that fails. *C# · ASP.NET Core · GitHub Actions*
+- **[suhanitiwari.com](https://github.com/suhxnitiwari/suhanitiwari-portfolio)** · [live ↗](https://suhanitiwari.com): My portfolio site, built from scratch. *C# · ASP.NET Core MVC · JavaScript*
 - **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)** · [screenshots ↗](https://github.com/suhxnitiwari/suhanis-21st-rsvp#readme): RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
 
 ### Data
@@ -60,11 +61,24 @@ I study Management Information Systems at McCombs and Psychology at UT, with int
 - **[Survival Odds](https://github.com/suhxnitiwari/survival-odds)** · [live ↗](https://suhxnitiwari.github.io/survival-odds/): Upload your syllabi and it tells you what you need on the final and plans your studying. *JavaScript · Gemini*
 
 ### Just for Fun
-[Soft Heart. Strong Spirit.](https://suhxnitiwari.github.io/suhani-personality/) ·
 [Hue Are You](https://suhxnitiwari.github.io/hue-are-you/) ·
 [Amaira's Aroma Cafe](https://suhxnitiwari.github.io/amairas-aroma-cafe/) ·
-[What's in My Bag](https://suhxnitiwari.github.io/whats-in-my-bag/) ·
-[Baby Name Maker](https://suhxnitiwari.github.io/baby-name-maker/)
+[Lullabyte: Baby Name Maker](https://suhxnitiwari.github.io/baby-name-maker/) ·
+[Brewniverse](https://suhxnitiwari.github.io/brewniverse/) ·
+[Charted](https://suhxnitiwari.github.io/astrology-results/) ·
+[Label Tea](https://suhxnitiwari.github.io/label-tea/) ·
+[Bollywood Receipts](https://suhxnitiwari.github.io/bollywood-receipts/) ·
+[Swiftie Atlas](https://github.com/suhxnitiwari/swiftie-atlas)
+
+## ✦ Get to Know Me
+Little websites about me: who I am, what I carry and where I come from.
+- **[What's in My Bag](https://github.com/suhxnitiwari/whats-in-my-bag)** · [live ↗](https://suhxnitiwari.github.io/whats-in-my-bag/): Pull the zipper and everything falls out. Tap anything and it opens: my Spotify data, my art, my classes, my Dysons, even my speeding ticket. *JavaScript · SVG · Web Audio*
+- **[Soft Heart. Strong Spirit.](https://github.com/suhxnitiwari/suhani-personality)** · [live ↗](https://suhxnitiwari.github.io/suhani-personality/): Ten personality tests, one person. An interactive story of who I am, how I love and what drives me.
+- **[Suhani House](https://github.com/suhxnitiwari/suhani-house)** · [live ↗](https://suhxnitiwari.github.io/suhani-house/): One house, nineteen rooms. Every room is a different side of me.
+- **[Suhani World](https://github.com/suhxnitiwari/suhani-world)** · [live ↗](https://suhxnitiwari.github.io/suhani-world/): The people and places that made me, me.
+- **[How I Work](https://github.com/suhxnitiwari/how-i-work)**: DISC, CliftonStrengths and RIASEC, in one place.
+- **[Suhani Celestial](https://github.com/suhxnitiwari/suhani-celestial)** · [live ↗](https://suhxnitiwari.github.io/suhani-celestial/): My birth chart, a little less sciency. Pisces Sun, Gemini Moon, Taurus Rising.
+- **[Favorites](https://github.com/suhxnitiwari/favorites)** · [live ↗](https://suhxnitiwari.github.io/favorites/): My favorite shows, books, TED talks and songs, run through the numbers.
 
 
 ---
