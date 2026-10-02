@@ -1,13 +1,13 @@
 # Hi, I'm Suhani ✦
 
-**MIS @ UT Austin McCombs** · Marketing minor · I build things people actually want to use
+**MIS + Psychology @ UT Austin McCombs** · Marketing minor · I build things people actually want to use
 
 [![Website](https://img.shields.io/badge/suhanitiwari.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://suhanitiwari.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suhxnitiwari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhxnitiwari/)
 [![Résumé](https://img.shields.io/badge/Résumé-BF5700?style=flat-square&logo=readthedocs&logoColor=white)](https://suhanitiwari.com/resume)
 ![Location](https://img.shields.io/badge/Austin,_TX-333333?style=flat-square&logo=googlemaps&logoColor=white)
 
-I study Management Information Systems at McCombs, with interests in psychology, marketing and product strategy. I'm fascinated by why people choose what they choose, and I like taking an idea from "wait, what if…" to something you can actually use.
+I study Management Information Systems at McCombs and Psychology at UT, with interests in marketing and product strategy. I'm fascinated by why people choose what they choose, and I like taking an idea from "wait, what if…" to something you can actually use.
 
 ## 👋 About Me
 
