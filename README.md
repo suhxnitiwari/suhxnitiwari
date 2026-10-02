@@ -22,21 +22,21 @@ I study Management Information Systems at McCombs, with interests in psychology,
 ### Full-Stack Apps
 - **[RideFlow](https://github.com/suhxnitiwari/ridemanagement)** · [live ↗](https://rideflow-frontend.onrender.com/): Rideshare platform with rider, driver and admin portals. It handles the full ride from request to receipt, enforces row-level security on the server, and has an AI chatbot. Built solo in a course designed for teams. *React · Node/Express · PostgreSQL · Clerk*
 - **[Bevo's Tacos](https://github.com/suhxnitiwari/Bevo_Taco-Checkout)** · [live ↗](https://suhxnitiwari.github.io/Bevo_Taco-Checkout/): Food truck checkout built in C#, then rebuilt as a web app, with 62 unit tests and CI that blocks any deploy that fails. *C# · ASP.NET Core · GitHub Actions*
-- **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)**: RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
+- **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)** · [screenshots ↗](https://github.com/suhxnitiwari/suhanis-21st-rsvp#readme): RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
 
 ### Data
-- **[Listening History](https://github.com/suhxnitiwari/listening-history)** · [live ↗](https://listening-history.onrender.com): Four years of Spotify (182K plays) run through a Python ETL into a PostgreSQL star schema, analyzed with SQL window functions. *Python · PostgreSQL · FastAPI*
+- **[Listening History](https://github.com/suhxnitiwari/listening-history)** · [live ↗](https://listening-history.onrender.com): Four years of Spotify (182K plays) run through a Python ETL into a PostgreSQL star schema, analyzed with SQL window functions. It's the data warehouse behind the two visualizations below. *Python · PostgreSQL · FastAPI*
+  - **[Listening Galaxy](https://github.com/suhxnitiwari/listening-galaxy)** · [live ↗](https://suhxnitiwari.github.io/listening-galaxy/): All 4,646 songs I've ever played, each one a star. Size is play count, color is the year I found it, and artists form constellations. Drag the timeline to replay four years. *Canvas · JavaScript · iTunes Search API*
+  - **[The Record](https://github.com/suhxnitiwari/listening-record)** · [live ↗](https://suhxnitiwari.github.io/listening-record/): Four years pressed into one LP. Each groove is a month, its width is hours listened and its color is that month's #1 artist. Drop the needle to hear the song on repeat. *SVG · JavaScript*
 - **[Saturday in Austin](https://github.com/suhxnitiwari/saturday-in-austin)** · [live ↗](https://suhxnitiwari.github.io/saturday-in-austin/): Plans your perfect Saturday across 208 Austin places using Dijkstra and bitmask dynamic programming. *Python · Algorithms*
 
 ### Apps for Good
 - **[Cadence](https://github.com/suhxnitiwari/cadence-period-tracker)** · [live ↗](https://suhxnitiwari.github.io/cadence-period-tracker/): Free, private, local-first period tracker designed for a first period. No account, no ads. *React · PWA*
-- **[ColoredIn](https://github.com/suhxnitiwari/ColoredIn)**: Coloring adventure that introduces girls ages 3–9 to 41 careers where women are underrepresented. *React · Express · Sequelize · Web Audio*
+- **[ColoredIn](https://github.com/suhxnitiwari/ColoredIn)** · [live ↗](https://coloredin.onrender.com): Coloring adventure that introduces girls ages 3–9 to 41 careers where women are underrepresented. *React · Express · Sequelize · Web Audio*
 - **[Survival Odds](https://github.com/suhxnitiwari/survival-odds)** · [live ↗](https://suhxnitiwari.github.io/survival-odds/): Upload your syllabi and it tells you what you need on the final and plans your studying. *JavaScript · Gemini*
 
 ### Just for Fun
 [Soft Heart. Strong Spirit.](https://suhxnitiwari.github.io/suhani-personality/) ·
-[Listening Galaxy](https://suhxnitiwari.github.io/listening-galaxy/) ·
-[Listening Record](https://suhxnitiwari.github.io/listening-record/) ·
 [Hue Are You](https://suhxnitiwari.github.io/hue-are-you/) ·
 [Amaira's Aroma Cafe](https://suhxnitiwari.github.io/amairas-aroma-cafe/) ·
 [What's in My Bag](https://suhxnitiwari.github.io/whats-in-my-bag/) ·
