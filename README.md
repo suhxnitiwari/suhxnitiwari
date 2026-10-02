@@ -70,17 +70,3 @@ I study Management Information Systems at McCombs, with interests in psychology,
 
 Let's talk about products, people or the best vanilla latte in Austin ☕ → [LinkedIn](https://www.linkedin.com/in/suhxnitiwari/) · [suhanitiwari.com](https://suhanitiwari.com)
 
-<br>
-
-<table align="center">
-  <tr>
-    <th>before GitHub maxxing</th>
-    <th>after GitHub maxxing</th>
-  </tr>
-  <tr>
-    <td><img src="assets/before.png" width="260" alt="Before: a grumpy toddler in an empty shopping cart"></td>
-    <td><img src="assets/after.png" width="260" alt="After: the same toddler beaming in a cart full of shopping bags"></td>
-  </tr>
-</table>
-
-<p align="center"><sub>cmon barbie, let's go shopping 🛍️</sub></p>
