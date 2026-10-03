@@ -50,9 +50,7 @@ I study Management Information Systems at McCombs and Psychology at UT, with int
 - **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)** · [screenshots ↗](https://github.com/suhxnitiwari/suhanis-21st-rsvp#readme): RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
 
 ### Data
-- **[Listening History](https://github.com/suhxnitiwari/listening-history)** · [live ↗](https://listening-history.onrender.com): Four years of Spotify (182K plays) run through a Python ETL into a PostgreSQL star schema, analyzed with SQL window functions. It's the data warehouse behind the two visualizations below. *Python · PostgreSQL · FastAPI*
-  - **[Listening Galaxy](https://github.com/suhxnitiwari/listening-galaxy)** · [live ↗](https://suhxnitiwari.github.io/listening-galaxy/): All 4,646 songs I've ever played, each one a star. Size is play count, color is the year I found it, and artists form constellations. Drag the timeline to replay four years. *Canvas · JavaScript · iTunes Search API*
-  - **[The Record](https://github.com/suhxnitiwari/listening-record)** · [live ↗](https://suhxnitiwari.github.io/listening-record/): Four years pressed into one LP. Each groove is a month, its width is hours listened and its color is that month's #1 artist. Drop the needle to hear the song on repeat. *SVG · JavaScript*
+- **[Listening Galaxy](https://github.com/suhxnitiwari/listening-galaxy)** · [live ↗](https://suhxnitiwari.github.io/listening-galaxy/): All 4,646 songs I've ever played, each one a star. Size is play count, color is the year I found it, and artists form constellations. Drag the timeline to replay four years. *Canvas · JavaScript · iTunes Search API*
 - **[Saturday in Austin](https://github.com/suhxnitiwari/saturday-in-austin)** · [live ↗](https://suhxnitiwari.github.io/saturday-in-austin/): Plans your perfect Saturday across 208 Austin places using Dijkstra and bitmask dynamic programming. *Python · Algorithms*
 
 ### Apps for Good
