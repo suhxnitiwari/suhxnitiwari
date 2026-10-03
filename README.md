@@ -27,17 +27,22 @@ I study Management Information Systems at McCombs and Psychology at UT, with int
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks**
+**Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Data & Tools**
+**Data, Testing & Deploy**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -45,39 +50,40 @@ I study Management Information Systems at McCombs and Psychology at UT, with int
 
 ### Full-Stack Apps
 - **[RideFlow](https://github.com/suhxnitiwari/ridemanagement)** · [live ↗](https://rideflow-frontend.onrender.com/): Rideshare platform with rider, driver and admin portals. It handles the full ride from request to receipt, enforces row-level security on the server, and has an AI chatbot. Built solo in a course designed for teams. *React · Node/Express · PostgreSQL · Clerk*
-- **[Bevo's Tacos](https://github.com/suhxnitiwari/Bevo_Taco-Checkout)** · [live ↗](https://suhxnitiwari.github.io/Bevo_Taco-Checkout/): Food truck checkout built in C#, then rebuilt as a web app, with 62 unit tests and CI that blocks any deploy that fails. *C# · ASP.NET Core · GitHub Actions*
+- **[Bevo's Tacos](https://github.com/suhxnitiwari/Bevo_Taco-Checkout)** · [live ↗](https://suhxnitiwari.github.io/Bevo_Taco-Checkout/): Food truck ordering with role-based kitchen and manager views, server-side pricing, and 77 tests that gate CI against real Postgres. *C# · ASP.NET Core · EF Core · xUnit · GitHub Actions*
 - **[suhanitiwari.com](https://github.com/suhxnitiwari/suhanitiwari-portfolio)** · [live ↗](https://suhanitiwari.com): My portfolio site, built from scratch. *C# · ASP.NET Core MVC · JavaScript*
 - **[21st RSVP](https://github.com/suhxnitiwari/suhanis-21st-rsvp)** · [screenshots ↗](https://github.com/suhxnitiwari/suhanis-21st-rsvp#readme): RSVP site with a live SignalR guest list, calendar invites and 23 integration tests. *ASP.NET Core · EF Core · SignalR · xUnit*
 
 ### Data
+- **[Listening History](https://github.com/suhxnitiwari/listening-history)** · [live ↗](https://listening-history.onrender.com): 182,293 Spotify plays through a Python ETL into a PostgreSQL star schema, SQL analytics, and a six-chapter FastAPI story. *Python · PostgreSQL · FastAPI*
+- **[Still Watching](https://github.com/suhxnitiwari/still-watching)** · [live ↗](https://suhxnitiwari.github.io/still-watching/): My Netflix history, browsed like Netflix. 3,427 views across eleven years, a Python ETL into one JSON file, and a case study on Netflix's password crackdown. *Python · JavaScript*
 - **[Listening Galaxy](https://github.com/suhxnitiwari/listening-galaxy)** · [live ↗](https://suhxnitiwari.github.io/listening-galaxy/): All 4,646 songs I've ever played, each one a star. Size is play count, color is the year I found it, and artists form constellations. Drag the timeline to replay four years. *Canvas · JavaScript · iTunes Search API*
+- **[Bollywood Receipts](https://github.com/suhxnitiwari/bollywood-receipts)** · [live ↗](https://suhxnitiwari.github.io/bollywood-receipts/): Bollywood gossip as an evidence system. Every story is stamped by how solid its receipt is, from on-the-record to cap, with case files, actor pages and one shared web of who's connected to whom. *JavaScript · HTML · CSS*
+- **[Lullabyte](https://github.com/suhxnitiwari/baby-name-maker)** · [live ↗](https://suhxnitiwari.github.io/baby-name-maker/): A baby-name engine over 529,000 real first names from government records in 18 countries. Every name becomes its own lullaby, played on a felt crib mobile. *Python · JavaScript*
+- **[Search History](https://github.com/suhxnitiwari/search-history)** · [live ↗](https://suhxnitiwari.github.io/search-history/): A year of my Google data (105,092 pages, 19,626 searches), asked like a search bar. *Data analysis · HTML*
 - **[Saturday in Austin](https://github.com/suhxnitiwari/saturday-in-austin)** · [live ↗](https://suhxnitiwari.github.io/saturday-in-austin/): Plans your perfect Saturday across 208 Austin places using Dijkstra and bitmask dynamic programming. *Python · Algorithms*
 
 ### Apps for Good
-- **[Cadence](https://github.com/suhxnitiwari/cadence-period-tracker)** · [live ↗](https://suhxnitiwari.github.io/cadence-period-tracker/): Free, private, local-first period tracker designed for a first period. No account, no ads. *React · PWA*
+- **[Cadence](https://github.com/suhxnitiwari/cadence-period-tracker)** · [live ↗](https://suhxnitiwari.github.io/cadence-period-tracker/): Free, private, local-first period tracker designed for a first period: honest ranged predictions and end-to-end encrypted family sharing. No account, no ads. *React · IndexedDB · Web Crypto · PWA*
 - **[ColoredIn](https://github.com/suhxnitiwari/ColoredIn)** · [live ↗](https://coloredin.onrender.com): Coloring adventure that introduces girls ages 3–9 to 41 careers where women are underrepresented. *React · Express · Sequelize · Web Audio*
 - **[Survival Odds](https://github.com/suhxnitiwari/survival-odds)** · [live ↗](https://suhxnitiwari.github.io/survival-odds/): Upload your syllabi and it tells you what you need on the final and plans your studying. *JavaScript · Gemini*
 
-### Just for Fun
-[Hue Are You](https://suhxnitiwari.github.io/hue-are-you/) ·
-[Amaira's Aroma Cafe](https://suhxnitiwari.github.io/amairas-aroma-cafe/) ·
-[Lullabyte: Baby Name Maker](https://suhxnitiwari.github.io/baby-name-maker/) ·
-[Brewniverse](https://suhxnitiwari.github.io/brewniverse/) ·
-[Charted](https://suhxnitiwari.github.io/astrology-results/) ·
-[Label Tea](https://suhxnitiwari.github.io/label-tea/) ·
-[Bollywood Receipts](https://suhxnitiwari.github.io/bollywood-receipts/) ·
-[Swiftie Atlas](https://github.com/suhxnitiwari/swiftie-atlas)
-
-## ✦ Get to Know Me
+### ✦ Get to Know Me
 Little websites about me: who I am, what I carry and where I come from.
 - **[What's in My Bag](https://github.com/suhxnitiwari/whats-in-my-bag)** · [live ↗](https://suhxnitiwari.github.io/whats-in-my-bag/): Pull the zipper and everything falls out. Tap anything and it opens: my Spotify data, my art, my classes, my Dysons, even my speeding ticket. *JavaScript · SVG · Web Audio*
-- **[Soft Heart. Strong Spirit.](https://github.com/suhxnitiwari/suhani-personality)** · [live ↗](https://suhxnitiwari.github.io/suhani-personality/): Ten personality tests, one person. An interactive story of who I am, how I love and what drives me.
+- **[Soft Heart. Strong Spirit.](https://github.com/suhxnitiwari/suhani-personality)** · [live ↗](https://suhxnitiwari.github.io/suhani-personality/): Ten personality tests, one person. An interactive story of who I am, how I love and what drives me. *Canvas · SVG · Web Audio*
 - **[Suhani House](https://github.com/suhxnitiwari/suhani-house)** · [live ↗](https://suhxnitiwari.github.io/suhani-house/): One house, nineteen rooms. Every room is a different side of me.
-- **[Suhani World](https://github.com/suhxnitiwari/suhani-world)** · [live ↗](https://suhxnitiwari.github.io/suhani-world/): The people and places that made me, me.
 - **[How I Work](https://github.com/suhxnitiwari/how-i-work)**: DISC, CliftonStrengths and RIASEC, in one place.
-- **[Suhani Celestial](https://github.com/suhxnitiwari/suhani-celestial)** · [live ↗](https://suhxnitiwari.github.io/suhani-celestial/): My birth chart, a little less sciency. Pisces Sun, Gemini Moon, Taurus Rising.
-- **[Favorites](https://github.com/suhxnitiwari/favorites)** · [live ↗](https://suhxnitiwari.github.io/favorites/): My favorite shows, books, TED talks and songs, run through the numbers.
+- **My World** · [suhanitiwari.com/world 🔒](https://suhanitiwari.com/world/): The people and places that made me, me. Private, behind a login I built: PBKDF2-hashed password, HttpOnly SameSite cookie, anti-forgery tokens and rate limiting.
 
+### Just for Fun
+[Celestial](https://suhxnitiwari.github.io/celestial/) ·
+[Charted](https://suhxnitiwari.github.io/astrology-results/) ·
+[Brewniverse](https://suhxnitiwari.github.io/brewniverse/) ·
+[Hue Are You](https://suhxnitiwari.github.io/hue-are-you/) ·
+[Label Tea](https://suhxnitiwari.github.io/label-tea/) ·
+[Amaira's Aroma Cafe](https://suhxnitiwari.github.io/amairas-aroma-cafe/) ·
+[Swiftie Atlas](https://github.com/suhxnitiwari/swiftie-atlas)
 
 ---
 
